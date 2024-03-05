@@ -2,7 +2,7 @@
 Ros2 humble project and  gazebo simulation . Detecting  whether the object is hazard 
 
 # Novality 
-      Detecting the objects weather it is hazardious or not 
+Detecting the objects weather it is hazardious or not 
 
 This project aims to develop a mobile robot that can detect hazards in its environment using a camera and take appropriate actions using opencv and detect those hazards.
 
@@ -29,7 +29,7 @@ The robot will be equipped with a combination of sensors, such as LiDAR, cameras
 To install and set up the project, follow these steps:
 Clone the repository:
 
-   git clone https://github.com/your-username/hazard-detection-mobile-robot.git
+   git clone https://github.com/Blackmonarch4574/ROS2-Hazard-Detection-.git
 
 STEP1:-
 At first we need to do colcon build in the workspace. If this is successfull we will proceed furthur.
